@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DC080123254B4E4400213747 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		DC20C1E0254B3D550043CBEE /* InTouch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InTouch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC20C1E3254B3D550043CBEE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DC20C1E5254B3D550043CBEE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +41,7 @@
 		DC20C1D7254B3D550043CBEE = {
 			isa = PBXGroup;
 			children = (
+				DC080123254B4E4400213747 /* README.md */,
 				DC20C1E2254B3D550043CBEE /* InTouch */,
 				DC20C1E1254B3D550043CBEE /* Products */,
 			);
